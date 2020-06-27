@@ -25,3 +25,6 @@ python spam-Whatsapp.py
 
 >[!WARNING]
 >When the program is about to run, you must have the cursor of your pc ON THE TEXT-FIELD OF YOUR WHATSAPP CHAT otherwise bad things could happen. Enjoy.
+
+# How it works
+This program simply presses keys on your keyboard and sends messages but it's very very fast.
