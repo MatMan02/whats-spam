@@ -5,7 +5,7 @@ A tool to spam Whatsapp Messages.
 
 # Requirements
 You need to install this packages in your pc:
-```ruby
+```
 pip install keyboard
 pip install selenium
 ```
