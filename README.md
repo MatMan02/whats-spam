@@ -4,14 +4,15 @@ A tool to spam Whatsapp Messages.
 >Use this program carefully!! Developer is not responsible for your actions!
 
 # Requirements
-You need to install this packages in your pc:
+First of all you need Python and pip installed on your pc. On MacOS you can install them with:
+```
+brew install python
+sudo easy_install pip
+```
+Then you need to install this packages in your pc:
 ```
 pip install keyboard
 pip install pyfiglet
-```
-You also need python!! To install it on MacOS:
-```
-brew install python
 ```
 
 # How to use it
